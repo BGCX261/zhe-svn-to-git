@@ -1,0 +1,9 @@
+/*
+ * file/name.ext
+ *
+ * Copyright (c) 2006 Scott McMurray
+ *
+ * Licensed under the Open Software License version 3.0
+ * ( See http://opensource.org/licenses/osl-3.0.php )
+ *
+ */
